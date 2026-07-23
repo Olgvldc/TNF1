@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Guagua</string>
+    <string name="title_activity_main">Guagua</string>
+    <string name="package_name">com.guagua.tenerife</string>
+    <string name="custom_url_scheme">com.guagua.tenerife</string>
+    <string name="admob_app_id">ca-app-pub-4442207947640493~6936941411</string>
+</resources>
