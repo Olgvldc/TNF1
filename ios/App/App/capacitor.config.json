@@ -1,0 +1,26 @@
+{
+	"appId": "com.guagua.tenerife",
+	"appName": "Guagua",
+	"webDir": "www",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"SplashScreen": {
+			"launchShowDuration": 800,
+			"backgroundColor": "#33463F",
+			"showSpinner": false
+		},
+		"StatusBar": {
+			"style": "DARK",
+			"backgroundColor": "#33463F"
+		}
+	},
+	"packageClassList": [
+		"GeolocationPlugin",
+		"AppPlugin",
+		"StatusBarPlugin",
+		"SplashScreenPlugin",
+		"AdMobPlugin"
+	]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Guagua — Transporte Tenerife",
+  "short_name": "Guagua",
+  "description": "Encuentra tu guagua en Tenerife: paradas, horarios reales y rutas a pie.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#33463F",
+  "theme_color": "#33463F",
+  "lang": "es",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
